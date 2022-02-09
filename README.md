@@ -1,4 +1,13 @@
-### Hi there 👋
+## Ciao!
+### I'm interested in ...
+- Physics (Complex System)
+- Computer Science (AI)
+- Linguistics
+
+Quotes
+> Nothing is more important than to see the sources of invention which are, in my opinion, more interseting than the inventions themselves.
+
+>When I learned to program, you were lucky if you got five minutes with the machine a day. If you wanted to get the program going, it just had to be written right. So people just learned to program like it was carving stone. You sort of have to sidle up to it. That's how I learned to program.
 
 <!--
 **lonelyhero77/lonelyhero77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
