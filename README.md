@@ -5,7 +5,7 @@
 - Linguistics
 
 ### Quotes
-> Nothing is more important than to see the sources of invention which are, in my opinion, more interseting than the inventions themselves. <p align="right">-Gottfried eibniz</p>
+> Nothing is more important than to see the sources of invention which are, in my opinion, more interseting than the inventions themselves. <p align="right">-Gottfried Leibniz</p>
 
 >When I learned to program, you were lucky if you got five minutes with the machine a day. If you wanted to get the program going, it just had to be written right. So people just learned to program like it was carving stone. You sort of have to sidle up to it. That's how I learned to program. <p align="right">-Donald Knuth</p>
 
